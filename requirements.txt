@@ -32,7 +32,7 @@ google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.27.2
 h5py==2.10.0
-idna==2.9
+idna==3.7
 image-geometry==1.13.0
 interactive-markers==1.11.4
 kdl-parser-py==1.13.1

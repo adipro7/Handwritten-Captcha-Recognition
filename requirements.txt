@@ -141,7 +141,7 @@ tf2-ros==0.6.5
 Theano==1.0.4
 topic-tools==1.14.3
 tornado==5.1.1
-tqdm==4.44.1
+tqdm==4.66.3
 urdfdom-py==0.4.1
 urllib3==1.25.8
 Werkzeug==1.0.1
